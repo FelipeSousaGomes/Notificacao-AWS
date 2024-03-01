@@ -2,7 +2,6 @@ package com.gomes.notificao.domain;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.Data;
-
 @Data
 public class Usuario {
 
